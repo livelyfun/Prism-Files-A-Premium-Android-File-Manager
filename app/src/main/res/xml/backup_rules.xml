@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude encrypted vault directory and keys from cloud backup -->
+    <exclude domain="file" path="vault" />
+    <exclude domain="file" path="vault_cache" />
+    <exclude domain="sharedpref" path="vault_prefs.xml" />
+</full-backup-content>

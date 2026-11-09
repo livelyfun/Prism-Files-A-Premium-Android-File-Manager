@@ -1,0 +1,6 @@
+{
+  "name": "Prism Files",
+  "description": "Premium Android file manager blending skeuomorphism, neumorphism, and glassmorphism with an encrypted private vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
